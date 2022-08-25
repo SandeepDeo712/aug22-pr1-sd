@@ -64,7 +64,7 @@ oc sync <project> --dev
 oc pipeline 
 ```
 
-## More Details
+## More Details Added by Sandeep
 
 For more details on how to use this Starter Kit Template please review the [IBM Garage for Cloud Developer Tools Developer Guide](https://cloudnativetoolkit.dev/)
 

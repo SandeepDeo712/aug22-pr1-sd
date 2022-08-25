@@ -45,7 +45,7 @@ npm run build
 npm run start
 ```
 
-### Deploying 
+### Deploying sandeep
 
 Make sure you are logged into the IBM Cloud using the IBM Cloud CLI and have access 
 to your development cluster.

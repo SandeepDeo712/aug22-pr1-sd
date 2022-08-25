@@ -9,6 +9,6 @@ pipeline-build-config.json
 test-report.xml
 .scannerwork/
 
-# Chart dependencies
+# Chart dependencies added
 **/charts/*.tgz
 Chart.lock
